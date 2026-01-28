@@ -5,6 +5,7 @@ public class Main {
 		// BIT504 A2 Task 9
 		System.out.println("Initial commit on main");
 		System.out.println("Feature message 2");
+		System.out.println("Feature message 1");
 	}
 
 }
